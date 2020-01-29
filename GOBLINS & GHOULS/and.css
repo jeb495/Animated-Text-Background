@@ -1,0 +1,16 @@
+body{
+    font-size: 100px;
+    font-family: sans-serif;
+    color:whitesmoke;
+    text-align: center;
+}
+
+* {
+  background-color: #1a2938; 
+  margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+  }
