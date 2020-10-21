@@ -1,3 +1,3 @@
 # GOBLINSandGHOULS
+## A proof of concept I made a while back, I couldn't bring myself to get rid of it
 
-I am too lazy to deploy this thing, it is kinda cool though, so maybe some day
